@@ -23,8 +23,6 @@ Here's a walkthrough of implemented features:
     <a href="//imgur.com/a/xVVi5ya">PreWork</a>
 </blockquote>
 
-<img src="http://imgur.com/a/xVVi5ya"/>
-
 GIF created with LiceCap (https://www.cockos.com/licecap/)
 
 ## Notes
