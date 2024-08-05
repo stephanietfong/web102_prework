@@ -19,7 +19,11 @@ The following **required** functionality is completed:
 
 Here's a walkthrough of implemented features:
 
-<blockquote class="imgur-embed-pub" lang="en" data-id="a/xVVi5ya"  ><a href="//imgur.com/a/xVVi5ya">PreWork</a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
+<blockquote class="imgur-embed-pub" lang="en" data-id="a/xVVi5ya">
+    <a href="//imgur.com/a/xVVi5ya">PreWork</a>
+</blockquote>
+
+<img src="http://imgur.com/a/xVVi5ya"/>
 
 GIF created with LiceCap (https://www.cockos.com/licecap/)
 
