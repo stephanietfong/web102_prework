@@ -19,7 +19,7 @@ The following **required** functionality is completed:
 
 Here's a walkthrough of implemented features:
 
-<blockquote class="imgur-embed-pub" lang="en" data-id="j2Fkwge"><a href="https://imgur.com/j2Fkwge"/a></blockquote>
+<blockquote class="imgur-embed-pub" lang="en" data-id="j2Fkwge"><a href="https://imgur.com/j2Fkwge">Prework</a></blockquote>
 
 GIF created with LiceCap (https://www.cockos.com/licecap/)
 
