@@ -35,6 +35,7 @@ function addGamesToPage(games) {
         gamesContainer.append(game);
     }
 }
+addGamesToPage(GAMES_JSON);
 
 /*************************************************************************************
  * Challenge 4: Create the summary statistics at the top of the page displaying the
